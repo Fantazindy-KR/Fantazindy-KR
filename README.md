@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fantazindy-KR
-- 👀 I’m interested in Python, Django, React
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Backend project
+- 👀 I’m interested in Javascript, JQuery, Python, Django, React
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Frontend or Backend project
 - 📫 Way to reach me with e-mail = kaeltheprince@gmail.com
 
 <!---
